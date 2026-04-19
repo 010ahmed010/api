@@ -15,8 +15,16 @@
       "redirectURL": "https://ibngroup.duckdns.org"
     },
     {
-      "id": "halabUnver",
+      "id": "halabUnver1",
       "title": "HalabUnver Student Helper Platform",
+      "imageURL": "https://zanfia.com/wp-content/uploads/2025/10/featured-image-9b7f9142-2940-48b9-8ba3-d6e3d3a13c0b.jpg",
+      "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
+      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "redirectURL": "https://halabUnver.duckdns.org"
+    },
+    {
+      "id": "halabUnver2",
+      "title": "HalabUnver Student Helper Platform (Copy)",
       "imageURL": "https://zanfia.com/wp-content/uploads/2025/10/featured-image-9b7f9142-2940-48b9-8ba3-d6e3d3a13c0b.jpg",
       "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
