@@ -10,7 +10,7 @@
       "id": "ibn-group",
       "title": "IBN-Group Training Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760983/IBN-Group_xnlnpf.png",
-      "description": "Collaborative training and employment ecosystem with hierarchical team management, dynamic profit-sharing workflows, and automated member notification systems",
+      "description": "A collaborative training and management platform featuring hierarchical team structures, dynamic profit sharing, and automated member notification systems.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://ibngroup.duckdns.org"
     },
