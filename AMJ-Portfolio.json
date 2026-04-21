@@ -10,7 +10,7 @@
       "id": "ibn-group",
       "title": "IBN-Group Training Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760983/IBN-Group_xnlnpf.png",
-      "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
+      "description": "Collaborative training and employment ecosystem with hierarchical team management, dynamic profit-sharing workflows, and automated member notification systems",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://ibngroup.duckdns.org"
     },
@@ -18,16 +18,16 @@
       "id": "halabUnver1",
       "title": "HalabUnver Student Helper Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760985/HalabUnver_c3cgh2.png",
-      "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
+      "description": "Unified multi-service ecosystem for education, trade, and resilience, featuring scientific informatics and secure freelance markets.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://halabUnver.duckdns.org"
     },
     {
-      "id": "halabUnver2",
-      "title": "HalabUnver Student Helper Platform (Copy)",
+      "id": "portfolio",
+      "title": "Terminal Portfolio",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760988/AMJ-Portfolio_pxmch4.png",
-      "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
-      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "description": "This terminal-themed portfolio showcases full-stack development expertise through a clean, modern interface. It effectively highlights technical proficiencies and key project metrics to create an engaging, highly personalized digital experience for potential clients.",
+      "technologies": ["React", "Tailwindcss"],
       "redirectURL": "https://halabUnver.duckdns.org"
     }
   ]
