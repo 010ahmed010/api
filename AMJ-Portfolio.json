@@ -9,7 +9,7 @@
     {
       "id": "ibn-group",
       "title": "IBN-Group Training Platform",
-      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776759736/IBN-Group_jhidyy.png",
+      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760983/IBN-Group_xnlnpf.png",
       "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://ibngroup.duckdns.org"
@@ -17,7 +17,7 @@
     {
       "id": "halabUnver1",
       "title": "HalabUnver Student Helper Platform",
-      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776759739/AMJ-Portfolio_gwlubk.png",
+      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760985/HalabUnver_c3cgh2.png",
       "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://halabUnver.duckdns.org"
@@ -25,7 +25,7 @@
     {
       "id": "halabUnver2",
       "title": "HalabUnver Student Helper Platform (Copy)",
-      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776759739/AMJ-Portfolio_gwlubk.png",
+      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760988/AMJ-Portfolio_pxmch4.png",
       "description": "Collaborative project management tool with drag-and-drop kanban boards and real-time updates.",
       "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
       "redirectURL": "https://halabUnver.duckdns.org"
