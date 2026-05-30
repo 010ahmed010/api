@@ -15,7 +15,7 @@
       "redirectURL": "https://ibngroup.duckdns.org"
     },
     {
-      "id": "halabUnver1",
+      "id": "halabUnver",
       "title": "HalabUnver Student Helper Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760985/HalabUnver_c3cgh2.png",
       "description": "Unified multi-service ecosystem for education, trade, and resilience, featuring scientific informatics and secure freelance markets.",
@@ -29,6 +29,14 @@
       "description": "This terminal-themed portfolio highlights full-stack expertise through a modern interface, showcasing technical skills and key project metrics in a sleek, personalized layout.",
       "technologies": ["React", "Tailwindcss"],
       "redirectURL": "https://halabUnver.duckdns.org"
+    }
+    {
+      "id": "Masjidi",
+      "title": "Masjisi Institute",
+      "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1780131189/Masgidi-Home_fllis2.png",
+      "description": "منصة تعليمية متكاملة للمعاهد الإسلامية، تقدم تجربة حديثة لإدارة الدورات والطلاب والإنجازات والأنشطة المجتمعية ضمن واجهة منظمة وسهلة الاستخدام.",
+      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "redirectURL": "https://thereisnodestnation.rghitnow"
     }
   ]
 }
