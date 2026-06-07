@@ -1,3 +1,4 @@
+```json
 {
   "contactDetails": {
     "email": "amj.tech.work@gmail.com",
@@ -5,38 +6,91 @@
     "linkedin": "https://www.linkedin.com/in/your-profile",
     "whatsapp": "0953316416"
   },
+
+  "developer": {
+    "experience": {
+      "value": 1,
+      "labelEn": "Years of Experience",
+      "labelAr": "سنة خبرة"
+    },
+    "projectsNumber": {
+      "value": 5,
+      "labelEn": "Projects",
+      "labelAr": "مشاريع"
+    },
+    "technologies": {
+      "value": 15,
+      "labelEn": "Technologies",
+      "labelAr": "تقنية"
+    },
+    "customerSatisfaction": {
+      "value": 83,
+      "labelEn": "Customer Satisfaction",
+      "labelAr": "رضا العملاء"
+    }
+  },
+
   "projects": [
     {
       "id": "ibn-group",
       "title": "IBN-Group Training Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776773128/IBN-Group_gpk4uk.png",
-      "description": "A collaborative training and management platform featuring hierarchical team structures, dynamic profit sharing, and automated member notification systems.",
-      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "descriptionEn": "A collaborative training and team management platform that streamlines organizational structures, automates member engagement, and supports transparent profit-sharing workflows.",
+      "descriptionAr": "منصة متكاملة للتدريب وإدارة الفرق تساعد على تنظيم الهيكليات الإدارية، وأتمتة تفاعل الأعضاء، وتوفير آليات واضحة ومرنة لتوزيع الأرباح.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Tailwindcss"
+      ],
       "redirectURL": "https://ibngroup.duckdns.org"
     },
+
     {
       "id": "halabUnver",
       "title": "HalabUnver Student Helper Platform",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760985/HalabUnver_c3cgh2.png",
-      "description": "Unified multi-service ecosystem for education, trade, and resilience, featuring scientific informatics and secure freelance markets.",
-      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "descriptionEn": "A digital ecosystem designed for students and young professionals, combining educational services, freelance opportunities, and community-driven knowledge resources in one place.",
+      "descriptionAr": "منظومة رقمية موجهة للطلاب والشباب تجمع بين الخدمات التعليمية وفرص العمل الحر والموارد المعرفية ضمن بيئة موحدة وسهلة الاستخدام.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Tailwindcss"
+      ],
       "redirectURL": "https://halabUnver.duckdns.org"
     },
+
     {
       "id": "portfolio",
       "title": "Terminal Portfolio",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1776760988/AMJ-Portfolio_pxmch4.png",
-      "description": "This terminal-themed portfolio highlights full-stack expertise through a modern interface, showcasing technical skills and key project metrics in a sleek, personalized layout.",
-      "technologies": ["React", "Tailwindcss"],
+      "descriptionEn": "A terminal-inspired portfolio experience that presents technical skills, featured projects, and professional achievements through a clean and developer-focused interface.",
+      "descriptionAr": "معرض أعمال مستوحى من واجهات الطرفية يعرض المهارات التقنية والمشاريع المميزة والإنجازات المهنية ضمن تجربة عصرية موجهة للمطورين.",
+      "technologies": [
+        "React",
+        "Tailwindcss"
+      ],
       "redirectURL": "https://halabUnver.duckdns.org"
     },
+
     {
       "id": "Masjidi",
-      "title": "Masjisi Institute",
+      "title": "Masjidi Institute",
       "imageURL": "https://res.cloudinary.com/df4yxeb3s/image/upload/v1780131189/Masgidi-Home_fllis2.png",
-      "description": "منصة تعليمية متكاملة للمعاهد الإسلامية، تقدم تجربة حديثة لإدارة الدورات والطلاب والإنجازات والأنشطة المجتمعية ضمن واجهة منظمة وسهلة الاستخدام.",
-      "technologies": ["React", "Node.js", "MongoDB", "Express.js", "Tailwindcss"],
+      "descriptionEn": "A modern educational platform built for Islamic institutes, providing tools for course management, student engagement, achievement tracking, and community activities.",
+      "descriptionAr": "منصة تعليمية حديثة مخصصة للمعاهد الإسلامية توفر أدوات لإدارة الدورات والطلاب ومتابعة الإنجازات وتنظيم الأنشطة المجتمعية بكفاءة وسهولة.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express.js",
+        "Tailwindcss"
+      ],
       "redirectURL": "https://thereisnodestnation.rghitnow"
     }
   ]
 }
+```
